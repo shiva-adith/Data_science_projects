@@ -1,8 +1,5 @@
 # Ignore jupyter notebook checkpoints
 .ipynb_checkpoints
 
-# Ignore Data folder
-SalesAnalysis
-
 # Ignore csv files
 *.csv
