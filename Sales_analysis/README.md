@@ -12,7 +12,7 @@ Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.
 
 ## Background Information:
 
-This repo goes with my video on "Solving real world data science videos with Python Pandas!". Here is some information on that video.
+This is a prject inspired from the Youtube video "Solving real world data science videos with Python Pandas!", by https://www.youtube.com/c/KGMIT/featured - Keith Galli. This is merely meant for the purpose of practice, do check out Keith's youtube videos using the link given previously. There are excellent tutorials for various topics related to python programming. 
 
 In this video we use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
 
@@ -36,10 +36,3 @@ To answer these questions we walk through many different pandas & matplotlib met
 - Using groupby to perform aggregate analysis
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
-
-Check out the first video I did on Pandas: <br/>
-https://youtu.be/vmEHCJofslg 
-
-Check out the videos I did on Matplotlib: <br/>
-https://youtu.be/DAQNHzOcO5A <br/>
-https://youtu.be/0P7QnIQDBJY
